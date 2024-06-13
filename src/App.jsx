@@ -1,7 +1,11 @@
+import { NavBar } from "./components/NavBar/NavBar";
+import { ItemList } from "./pages/ItemListContainer/ItemList";
+
 function App() {
   return (
     <>
-      <div>ASDASD</div>
+      <NavBar />
+      <ItemList greeting="Bienvenido a Shay Greenhouse. Más que plantas, comunidad!" />
     </>
   );
 }
