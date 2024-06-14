@@ -1,4 +1,4 @@
-.navbar-cpontainer {
+.navbar-container {
   display: flex;
   justify-content: space-between;
   padding: 1vh 2vh;
@@ -16,7 +16,7 @@
 
 .category-btn {
   padding: 5px 25px;
-  font-size: 30px;
+  font-size: 25px;
   border-radius: 50px;
 }
 

@@ -5,7 +5,7 @@ import "../NavBar/navbar.css";
 
 export const NavBar = () => {
   return (
-    <div className="navbar-cpontainer">
+    <div className="navbar-container">
       <NavIcon />
 
       <ul className="category-container">
